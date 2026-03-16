@@ -1,43 +1,76 @@
-# Astro Starter Kit: Minimal
+# 🧩 Proyecto: Componente QR Code
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Este proyecto consiste en el desarrollo de un **componente de Código QR** utilizando **Astro** y **Tailwind CSS**.  
+El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**, **estilos responsivos** y **utilidades CSS** para construir un diseño limpio, moderno y adaptable a diferentes dispositivos.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-## 🚀 Project Structure
+## 📖 Descripción general
 
-Inside of your Astro project, you'll see the following folders and files:
+### 🧩 Vista previa del proyecto
+Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
+> Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+![alt text]({C59873BA-E88A-4511-9BD0-3DD7D374FB88}.png)
+---
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### 🔗 Enlaces del proyecto
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **Repositorio en GitHub:** [https://github.com/AxelRodriguez-dot/QR-CodeComponent](https://github.com/)
+- **Sitio desplegado (opcional):** [https://axelrodriguez-dot.github.io/QR-CodeComponent/](https://)
 
-Any static assets, like images, can be placed in the `public/` directory.
+---
 
-## 🧞 Commands
+## 🧠 Proceso de desarrollo
 
-All commands are run from the root of the project, from a terminal:
+### 🛠️ Tecnologías utilizadas
+Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- [Astro](https://astro.build)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML5 semántico
+- Diseño responsivo (Mobile-first)
+- Componentes reutilizables
 
-## 👀 Want to learn more?
+---
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### 💡 Lo que aprendí
+En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
+Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
+
+Ejemplo:
+Aprendi el como se utiliza tailwind a pesar de ser un poco tedioso de usar con los componentes es muy util en la creacion de paginas
+
+### 🚀 Áreas de mejora
+
+Mi entendimiento de tailwind y astro puesto que batalle bastante para que este pudiera funcionar
+
+
+### 📚 Recursos útiles
+
+**Ejemplo:**
+- [Documentación de Astro](https://docs.astro.build)  
+- [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs)  
+- [MDN Web Docs - HTML y CSS](https://developer.mozilla.org/es/)  
+- [Guía de diseño responsivo](https://web.dev/responsive-web-design-basics/)  
+
+---
+
+### 👩‍💻 Autor
+
+- **Nombre completo: Axel Johab Rodriguez Ortiz**  
+- **Carrera:TICS**  
+- **Grupo: 11-12**  
+- **Correo institucional:23151212@aguascalientes.tecnm.mx**  
+
+---
+
+### ✨ Reflexión final
+
+Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
+Puedes responder a preguntas como:
+
+- ¿Qué fue lo más fácil o lo más difícil de realizar?  El sistema de componentes de astro
+- ¿Qué parte disfrutaste más del desarrollo?  Ninguna es un dolor trabajar en estos
+- ¿Qué conceptos nuevos aprendiste?  
+- ¿Cómo aplicarías lo aprendido en proyectos futuros?
